@@ -12,6 +12,8 @@ Once I am finished with my degree, I plan on teaching myself JavaScript as well 
 <br />
 
 
+<img align="center" alt="GIF" src="https://github.com/jmrieck17/jmrieck17/blob/main/galaxyswirl.gif?raw=true" />
+
 <!---
 jmrieck17/jmrieck17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
