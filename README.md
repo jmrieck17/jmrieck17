@@ -6,7 +6,7 @@ My name is Joshua Rieck, and I am currently a graduate student at [Wayne State U
 Once I am finished with my degree, I plan on teaching myself JavaScript as well as HTML. I am a self-motivated, enthusiastic, eager learner who loves to continuously build on my skillset in my free time. A link to my LinkedIn profile can be found below:
 
 <a href="https://www.linkedin.com/in/joshuarieck6794/">
-  <img align="left" alt="Josh's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Josh's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
