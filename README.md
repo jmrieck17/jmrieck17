@@ -12,7 +12,7 @@ Once I am finished with my degree, I plan on teaching myself JavaScript as well 
 <br />
 
 <p align="center">
-    <alt = GIF img src="https://github.com/jmrieck17/jmrieck17/blob/main/galaxyswirl.gif?raw=true">
+  <img src="https://github.com/jmrieck17/jmrieck17/blob/main/galaxyswirl.gif" alt="animated" />
 </p>
 
 <!---
