@@ -10,7 +10,7 @@ Once I am finished with my degree, I plan on teaching myself JavaScript as well 
 </a>
 
 <br />
-
+<br />
 <br />
 
 
