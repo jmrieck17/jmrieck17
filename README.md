@@ -4,6 +4,8 @@
   <img align="left" alt="Josh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
+
 - 👀 I’m interested in learning data visualization and machine learning techniques using open-source languages such as R and Python
 - 🌱 I’m currently learning how to use R and Python programming through my master's program
 
