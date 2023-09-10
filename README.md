@@ -10,16 +10,11 @@ My name is Joshua Rieck, and I am from metro Detroit, Michigan where I recently 
 
 I am a data science and business analytics graduate with a passion for solving complex problems through data-driven insights. My expertise lies in data visualization, data mining, and machine learning, with proficiency in SQL, R, and Python. I am dedicated to continuous learning and am currently expanding my knowledge in deep learning with TensorFlow.
 
-## GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/jmrieck17?style=social)
-![GitHub contributions](https://img.shields.io/github/contributors/jmrieck17/Data-Science-Projects?style=plastic)
-
 ## Projects
 
-- [Project 1: Predictive Modeling with Python](https://github.com/jmrieck17/project-1)
+- [Pima Indians Diabetes: A Study of Imputation Methods and its Impact on Machine Learning Algorithm Performance](https://github.com/jmrieck17/CSC-7810-Final-Project---Pima-Indians-Data-Imputation)
   - Description: A machine learning project where I built predictive models using Python and scikit-learn.
-- [Project 2: Data Visualization with R](https://github.com/jmrieck17/project-2)
+- [Heart Disease Prediction](https://github.com/jmrieck17/CSC-5800-Final-Project-Heart-Disease-Prediction)
   - Description: An R-based project focusing on data visualization and storytelling.
 
 ## Contact
