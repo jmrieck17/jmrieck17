@@ -14,10 +14,6 @@ I am a self-motivated, enthusiastic, eager learner who loves to continuously bui
 <br />
 
 
-<p align="center">
-  <img src="https://github.com/jmrieck17/jmrieck17/blob/main/galaxyswirl.gif" alt="animated" />
-</p>
-
 <!---
 jmrieck17/jmrieck17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
