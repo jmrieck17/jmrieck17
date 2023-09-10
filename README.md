@@ -1,6 +1,6 @@
 # Joshua Rieck - Data Science Graduate and Machine Learning Enthusiast
 
-![Hello There](https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif)
+<img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" alt="Hello There" width="300">
 
 ## 👋 Hello There,
 
