@@ -1,5 +1,7 @@
 # Joshua Rieck - Data Science Graduate and Machine Learning Enthusiast
 
+![Hello There](https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif)
+
 ## 👋 Hello There,
 
 My name is Joshua Rieck, and I am from metro Detroit, Michigan where I recently graduated with my master's degree in Data Science and Business Analytics from [Wayne State University](https://wayne.edu/). Through my program of study, I learned advanced analytics techniques such as data visualization, data mining techniques, and machine learning using SQL, R programming, and Python. I am also working on teaching myself to use Tensorflow for deep learning techniques. If you are interested in learning more about Wayne State's Data Science program, click [here](https://engineering.wayne.edu/data-science-program).
