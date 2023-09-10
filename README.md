@@ -13,7 +13,7 @@ I am a data science and business analytics graduate with a passion for solving c
 ## Projects
 
 - [Pima Indians Diabetes: A Study of Imputation Methods and its Impact on Machine Learning Algorithm Performance](https://github.com/jmrieck17/CSC-7810-Final-Project---Pima-Indians-Data-Imputation)
-  - Description: A machine learning project where I built predictive models using Python and scikit-learn.
+  - This project evaluates and compares imputation algorithms on Pima Indians diabetes dataset using ML models to determine the best imputation method for each. It contains dataset, code, and analysis.
 - [Heart Disease Prediction](https://github.com/jmrieck17/CSC-5800-Final-Project-Heart-Disease-Prediction)
   - Description: An R-based project focusing on data visualization and storytelling.
 
