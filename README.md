@@ -22,7 +22,14 @@ I am a data science and business analytics graduate with a passion for solving c
 
 ## Contact
 
-<p><a href="https://www.linkedin.com/in/joshuarieck6794"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/joshuarieck6794">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+  </a>
+  <a href="https://github.com/jmrieck17" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="25">
+  </a>
+</p>
 
 ## Skills
 
